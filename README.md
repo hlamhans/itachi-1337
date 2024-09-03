@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @itachi-1337
+- 👀 I’m interested in C/C++
+- 🌱 I’m currently learning C/C++ and Python
+- 📫 How to reach me
+- just injoy with coding :)
