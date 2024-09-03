@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @itachi-1337
+- 👋 Hi, I’m itachi
 - 👀 I’m interested in C/C++
 - 🌱 I’m currently learning C/C++ and Python
 - 📫 How to reach me
