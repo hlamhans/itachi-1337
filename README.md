@@ -1,4 +1,4 @@
-- 👋 Hi, I’m itachi
+- 👋 Hi, I’m HAMZA
 - 👀 I’m interested in C/C++
 - 🌱 I’m currently learning C/C++ and Python
 - 📫 How to reach me
